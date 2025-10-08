@@ -69,8 +69,7 @@ This workflow automates email summarization and draft creation using **n8n**, **
 
 | Date | Email | Subject | Snippet | Summary |
 |------|-------|---------|---------|---------|
-| 2025-10-08 | naukrialerts@naukri.com | Job Alert | Dona C, You are a top candidate for a role. APPLY NOW! | Hiring Fresher As Assistant Manager in IDFC Bank naukri.com Get App Your mid-week opportunities are right here! Hiring Fresher As Assistant Manager in IDFC Bank PVR India Trivandrum, Kozhi... View All | Here is a summary of the email in 3 lines:
-IDFC Bank is hiring fresher candidates as Assistant Managers. The job opportunity is available at PVR India's Trivandrum and Kozhikode locations. |
+| 2025-10-08 | naukrialerts@naukri.com | Dona C, You are a top candidate for a role. APPLY NOW! | Hiring Fresher As Assistant Manager in IDFC Bank naukri.com Get App Your mid-week opportunities are right here! Hiring Fresher As Assistant Manager in IDFC Bank PVR India Trivandrum, Kozhi... View All | Here is a summary of the email in 3 lines: IDFC Bank is hiring fresher candidates as Assistant Managers. The job opportunity is available at PVR India's Trivandrum and Kozhikode locations. |
 
 ---
 
